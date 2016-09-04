@@ -1,16 +1,22 @@
 ---
-datePublished: '2016-09-01T19:06:44.247Z'
 inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
+inLanguage: null
+keywords: []
+description: Welcome to SpectoLogic! Experts on cloud development
+datePublished: '2016-09-01T19:24:51.742Z'
+dateModified: '2016-09-01T19:23:27.758Z'
 author: []
 via: {}
-dateModified: '2016-09-01T19:04:15.994Z'
 title: ''
-publisher: {}
-description: Welcome to SpectoLogic! We are experts on cloud development
-starred: false
 sourcePath: >-
   _posts/2016-09-01-welcome-to-spectologic-we-are-experts-on-cloud-development.md
+authors: []
+publisher: {}
+starred: false
 _type: Blurb
 
 ---
-Welcome to SpectoLogic! We are experts on cloud development
+Welcome to SpectoLogic! Experts on cloud development
