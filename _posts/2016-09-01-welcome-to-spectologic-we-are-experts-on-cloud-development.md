@@ -5,9 +5,9 @@ inNav: false
 isBasedOnUrl: null
 inLanguage: null
 keywords: []
-description: Welcome to SpectoLogic! Experts on cloud development
-datePublished: '2016-09-01T19:24:51.742Z'
-dateModified: '2016-09-01T19:23:27.758Z'
+description: Welcome to SpectoLogic - Experts on cloud development
+datePublished: '2016-09-01T19:25:34.784Z'
+dateModified: '2016-09-01T19:25:00.728Z'
 author: []
 via: {}
 title: ''
@@ -19,4 +19,4 @@ starred: false
 _type: Blurb
 
 ---
-Welcome to SpectoLogic! Experts on cloud development
+Welcome to SpectoLogic - Experts on cloud development
